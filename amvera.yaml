@@ -1,0 +1,2 @@
+build:
+  dockerfile: ./AmveraProject/Dockerfile
